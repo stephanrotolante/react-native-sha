@@ -16,11 +16,6 @@
     "lib/commonjs",
     "lib/module",
     "lib/typescript",
-    "ios/**/*.h",
-    "ios/**/*.m",
-    "ios/**/*.mm",
-    "ios/**/*.cpp",
-    "react-native-mmkv.podspec",
     "README.md"
   ],
   "scripts": {
